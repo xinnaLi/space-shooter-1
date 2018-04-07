@@ -35,7 +35,9 @@ public class PlayerController : MonoBehaviour {
         {
             nextFire = Time.time + fireRate;
             Instantiate(shot, shotSpawn.position, shotSpawn.rotation);
-        }    
+            //controller.audio.Play();
+        }
+       
     }
 
     void FixedUpdate()
