@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"JSON"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "material",
+		"selected_items":
+		[
+			[
+				"material",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 513.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cajacks1/GoogleDrive/Documents/SpringSemester2018/CSCI490/FinalProject/space-shooter/Assets/_Game/Scripts"
+	],
+	"file_history":
+	[
+		"/home/cajacks1/GoogleDrive/Documents/SpringSemester2018/CSCI490/FinalProject/space-shooter/StarShooter.sublime-project",
+		"/home/cajacks1/GoogleDrive/Documents/SpringSemester2018/CSCI490/FinalProject/space-shooter/Code/DestroyByBoundary.cs",
+		"/home/cajacks1/.config/sublime-text-3/Packages/OmniSharp/prebuilt-omnisharp-server/config.json",
+		"/home/cajacks1/GoogleDrive/CSCI490/FinalProject/space-shooter/Done_PlayerController.cs",
+		"/home/cajacks1/GoogleDrive/CSCI490/FinalProject/space-shooter/Done_WeaponController.cs",
+		"/home/cajacks1/GoogleDrive/CSCI490/FinalProject/space-shooter/Done_RandomRotator.cs",
+		"/home/cajacks1/GoogleDrive/CSCI490/FinalProject/space-shooter/Done_Mover.cs",
+		"/home/cajacks1/GoogleDrive/CSCI490/FinalProject/space-shooter/Done_GameController.cs",
+		"/home/cajacks1/GoogleDrive/CSCI490/FinalProject/space-shooter/Done_EvasiveManeuver.cs",
+		"/home/cajacks1/GoogleDrive/CSCI490/FinalProject/space-shooter/Done_DestroyByTime.cs",
+		"/home/cajacks1/GoogleDrive/CSCI490/FinalProject/space-shooter/Done_DestroyByContact.cs",
+		"/home/cajacks1/GoogleDrive/CSCI490/FinalProject/space-shooter/Done_DestroyByBoundary.cs",
+		"/home/cajacks1/GoogleDrive/CSCI490/FinalProject/space-shooter/Done_BGScroller.cs",
+		"/home/cajacks1/GoogleDrive/Documents/Coding/WebDev/JavaScript/310Project/sample.json",
+		"/home/cajacks1/GoogleDrive/Documents/Coding/WebDev/JavaScript/310Project/sample.js",
+		"/home/cajacks1/GoogleDrive/Documents/Coding/WebDev/JavaScript/Gaming/PaddleAndBlocks/game.js",
+		"/home/cajacks1/GBA4iOS/Skins/GBA/com.cajacks1.tealturf/info.json",
+		"/home/cajacks1/GBA4iOS/Skins/GBA/com.cajacks1.teal/info.json",
+		"/home/cajacks1/GBA4iOS/Skins/GBA/Blank/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/com.GBA4iOS.default/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/GameBoyAdvancedSP_Green/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/com.micklesp.gbaspred/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/GameBoyAdvancedSP_Blue/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/com.mickelsp.gba4iosclassic/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/Dualshock4GBA/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/Christmas/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/Default_GBA/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/gba4iosclassic/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/GBA4iOS_Classic/info.json",
+		"/home/cajacks1/GBA4iOS/Default_GBA/Default/info.json",
+		"/run/user/1000/gvfs/afc:host=00eba2792c95a7d3c930e385d1c5c9a3d3e7b0ca,port=3/com.tweakbox.gba4ios/Skins/GBA/Blank/info.json",
+		"/home/cajacks1/.config/sublime-text-3/Packages/Material Theme/Preferences.sublime-settings",
+		"/home/cajacks1/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/cajacks1/Downloads/unity.sh"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "StarShooter.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
