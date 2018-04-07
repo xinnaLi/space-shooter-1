@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "Assets/_Game/Scripts",
+			"follow_symlinks": true
+		}
+
+	],
+	"solution_file": "./StarShooter.sln"
+}
