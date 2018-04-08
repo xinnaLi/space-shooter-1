@@ -29,7 +29,7 @@ public class PlayerController : MonoBehaviour {
 
     void Update()
     {
-        //moveHand();
+        moveHand();
 
         if (Input.GetButton("Fire1") && Time.time > nextFire)
         {
