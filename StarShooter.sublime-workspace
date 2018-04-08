@@ -24,7 +24,7 @@
 			"file": "Assets/_Game/Scripts/DestroyByContact.cs",
 			"settings":
 			{
-				"buffer_size": 709,
+				"buffer_size": 711,
 				"encoding": "UTF-8 with BOM",
 				"line_ending": "Windows"
 			}
@@ -42,7 +42,7 @@
 			"file": "Assets/_Game/Scripts/GameController.cs",
 			"settings":
 			{
-				"buffer_size": 1290,
+				"buffer_size": 1321,
 				"encoding": "UTF-8 with BOM",
 				"line_ending": "Windows"
 			}
@@ -60,7 +60,7 @@
 			"file": "Assets/_Game/Scripts/PlayerController.cs",
 			"settings":
 			{
-				"buffer_size": 2364,
+				"buffer_size": 2393,
 				"encoding": "UTF-8 with BOM",
 				"line_ending": "Windows"
 			}
@@ -187,7 +187,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -224,15 +224,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 709,
+						"buffer_size": 711,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								358,
-								358
+								661,
+								661
 							]
 						],
 						"settings":
@@ -245,7 +245,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -273,7 +273,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -282,15 +282,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1290,
+						"buffer_size": 1321,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								306,
+								306
 							]
 						],
 						"settings":
@@ -303,7 +303,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -340,15 +340,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2364,
+						"buffer_size": 2393,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								614,
-								614
+								2390,
+								2390
 							]
 						],
 						"settings":
@@ -361,7 +361,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
