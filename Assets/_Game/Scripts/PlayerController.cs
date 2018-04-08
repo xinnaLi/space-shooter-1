@@ -1,8 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Leap;
-using Leap.Unity;
+//using Leap;
+//using Leap.Unity;
 
 [System.Serializable]
 public class Boundary
@@ -11,13 +11,13 @@ public class Boundary
 }
 
 public class PlayerController : MonoBehaviour {
-
+    /*
     public Controller controller;
     public float handPalmPitch;
     public float handPalmYam;
     public float handPalmRoll;
     public float handWristRot;
-
+    */
     public float speed;
     public Boundary boundary;
 
@@ -54,7 +54,7 @@ public class PlayerController : MonoBehaviour {
         );
         
     }
-
+    /*
     bool moveHand()
     {
         controller = new Controller();
@@ -86,4 +86,5 @@ public class PlayerController : MonoBehaviour {
 
         return true;
     }
+    */
 }
