@@ -141,8 +141,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf9603967f4ff784789c98890b78d374, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
   speed: 125
 --- !u!114 &114317380485666108
+=======
+  explosion: {fileID: 1122203965927012, guid: 59b7d6e7306a69d418d7f90490e94368, type: 2}
+  scoreValue: 0
+--- !u!114 &114386654129241768
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
